@@ -1,2 +1,2 @@
 # kubernet
-Receitas utilitarias de Kubernet
+Receitas utilitárias de Kubernet
